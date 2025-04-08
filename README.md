@@ -1,8 +1,8 @@
 ## 🗒️ Google Keep Clone
-A simple and elegant Google Keep Clone built using React.js. This application allows users to create, edit, and delete notes, mimicking the core functionality of Google Keep.
+A simple and elegant Google Keep Clone built using React.js. This application allows users to create, archive, and delete notes, mimicking the core functionality of Google Keep.
 
 ## 🚀 Features
-📝 Create, edit, and delete notes
+📝 Create, archive, and delete notes
 
 🎨 Color-coded notes for better organization
 
@@ -27,7 +27,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/google-keep-clone.git
+git clone https://github.com/thapliyal2002/google-keep-clone.git
 cd google-keep-clone
 Install dependencies
 
